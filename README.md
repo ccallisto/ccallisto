@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ccallisto
-- 👀 I’m interested in Embedded Systems and Full Stack Development
-- 🌱 I’m currently learning File Structure Design
+- 👀 I’m interested in Backend and Full Stack Development
+- 🌱 I’m currently learning automata theory and compiler design
 - 💞️ I’m looking to collaborate on anything!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I really love hockey
